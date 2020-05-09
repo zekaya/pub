@@ -1,4 +1,4 @@
-# Marker-based imaging system for tracking finger joint angles of a prosthetic/robotic hand.
+# Marker-based imaging system for tracking finger joint angles of a prosthetic/robotic finger.
 
 In the image-based motion detection system, a shape-based detection algorithm is used to detect the positions of the pointers placed on the fingers in each frame of the captured video. In each of the video frames, all the segments that remain below a certain brightness value are eliminated using MATLAB's "imfindcircles" command according to whether they are circles in the desired radius. The MATLAB function used is based on the Circular Hough Transform algorithm.
 

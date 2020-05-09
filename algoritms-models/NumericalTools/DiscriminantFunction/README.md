@@ -855,11 +855,6 @@ iteration number.<o:p></o:p></span></p>
 
 <p class=Standard style='margin-left:6.35pt;text-align:justify'><span
 style='mso-fareast-font-family:"Courier New";mso-bidi-font-family:"Courier New";
-color:black'><span style='mso-tab-count:1'>          </span>v) MATLAB code is
-represented in the Appendix part.<o:p></o:p></span></p>
-
-<p class=Standard style='margin-left:6.35pt;text-align:justify'><span
-style='mso-fareast-font-family:"Courier New";mso-bidi-font-family:"Courier New";
 color:black'><o:p>&nbsp;</o:p></span></p>
 
 </div>
